@@ -40,7 +40,9 @@ connectivity, dynamic addressing, and internal web services.
 ## 📂 Files
 
 - `enterprise-network.pkt` — full Packet Tracer simulation
-- `docs/` — topology diagram, subnetting and addressing tables
+- `topology-screenshot.png` — topology diagram
+-  `topology-subnetting.pdf` - subnetting table
+-  `topology-addressing.pdf` - addressing tables
 - `configs/` — running-config exports from each router
 
   ## 📄 Project Documentation
