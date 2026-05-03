@@ -43,6 +43,13 @@ connectivity, dynamic addressing, and internal web services.
 - `docs/` — topology diagram, subnetting and addressing tables
 - `configs/` — running-config exports from each router
 
+  ## 📄 Project Documentation
+
+Detailed planning and design documentation submitted as part of the assignment:
+
+- 📊 [Subnetting Table (VLSM)](subnetting-table.pdf) — full VLSM subnet allocation across all 10 LANs, with network/broadcast addresses, usable IP ranges and subnet masks
+- 🗺️ [Addressing Table](addressing-table.pdf) — IP, subnet mask and default gateway assignments per device and interface
+
 ## 🚀 How to Open
 
 1. Install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (free)
